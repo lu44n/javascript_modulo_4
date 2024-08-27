@@ -1,2 +1,2 @@
-# javascript_modulo_4
- Recursos modernos do JavaScript!
+# Desenvolvimento Pessoal em JavaScript
+ Recursos modernos do JavaScript
